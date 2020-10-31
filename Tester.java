@@ -13,5 +13,7 @@ public class Tester {
     System.out.println(myTri.getPerimeter());
     System.out.println(myTri.getArea());
     System.out.println(myTri.classify()); //return scalene
+    System.out.println(myTri.toString()); //return scalene
+
     }
 }
