@@ -12,5 +12,6 @@ public class Tester {
     System.out.println(myPoint.equals(thisPoint)); //expecting true
     System.out.println(myTri.getPerimeter());
     System.out.println(myTri.getArea());
+    System.out.println(myTri.classify()); //return scalene
     }
 }
